@@ -28,7 +28,6 @@ Guru Hospital is a web-based healthcare portal that connects **doctors** and **p
 
 ## 📂 Project Structure
 
-```
 guru-hospital/
 ├── index.html          # Landing page (Home, About, Services, Login)
 ├── doctor.html          # Doctor Dashboard
@@ -60,7 +59,7 @@ guru-hospital/
 
 ## 👤 Author
 
-**Sri Gurudharshini**
+**Sri gurudharshini**
 📍 Salem, Tamil Nadu, India
 
 ---
