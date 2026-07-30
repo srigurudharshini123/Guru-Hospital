@@ -22,26 +22,6 @@ Guru Hospital is a web-based healthcare portal that connects **doctors** and **p
 
 ---
 
-
-
----
-
-## 📂 Project Structure
-
-guru-hospital/
-├── index.html          # Landing page (Home, About, Services, Login)
-├── doctor.html          # Doctor Dashboard
-├── patient.html         # Patient Dashboard
-├── style.css            # Stylesheet
-└── images/               # Logos, banners, and illustrations
-    ├── Hospital_Logo.png
-    ├── Hospital_Banner.png
-    ├── Hospital_Background.png
-    ├── Doctor_12.png
-    ├── Doctor_home.png
-    └── Patient_home.png
----
-
 ## 🖥️ Usage
 
 1. Open the **Home Page** and navigate to **Login**.
