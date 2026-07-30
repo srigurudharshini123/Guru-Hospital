@@ -22,31 +22,7 @@ Guru Hospital is a web-based healthcare portal that connects **doctors** and **p
 
 ---
 
-## ✨ Features
 
-- **Landing Page** – Home, About, and Services sections introducing the hospital and its offerings (Emergency Care, Specialist Doctors, Appointment Booking).
-- **Login Portal** – Separate login entry points for Doctors and Patients.
-- **Doctor Dashboard**
-  - Enter doctor name and select specialization (e.g., General Physician, Neurologist, Gynecologist).
-  - Toggle live status (Online/Offline).
-  - Set and update waiting time in real time.
-  - View live appointment count and notifications (e.g., new bookings).
-- **Patient Dashboard**
-  - Enter patient name and search for doctors by name.
-  - Filter to show only online doctors.
-  - View each doctor's live specialization, status, and waiting time.
-  - Book an appointment with a single click.
-- **Real-Time Sync** – Updates made on the Doctor Dashboard (status, specialization, waiting time) reflect instantly on the Patient Dashboard.
-
----
-
-## 🛠️ Tech Stack
-
-- **Frontend:** HTML5, CSS3, JavaScript
-- **Development Server:** VS Code Live Server
-- **Assets:** Custom hospital branding images/icons (logo, banners, doctor/patient illustrations)
-
-> Update this section with any backend/database technology (e.g., Java Spring Boot, Node.js, Firebase) if one is used behind the dashboards.
 
 ---
 
@@ -65,34 +41,6 @@ guru-hospital/
     ├── Doctor_12.png
     ├── Doctor_home.png
     └── Patient_home.png
-```
-
----
-
-## 🚀 Getting Started
-
-### Prerequisites
-- A modern web browser (Chrome, Edge, Firefox)
-- [VS Code](https://code.visualstudio.com/) with the **Live Server** extension (or any static file server)
-
-### Run Locally
-
-1. Clone the repository
-   ```bash
-   git clone https://github.com/<your-username>/guru-hospital.git
-   cd guru-hospital
-   ```
-
-2. Open the project folder in VS Code
-
-3. Right-click `index.html` → **Open with Live Server**
-   (or open the file directly in your browser)
-
-4. The app will run at:
-   ```
-   http://127.0.0.1:5500/index.html
-   ```
-
 ---
 
 ## 🖥️ Usage
