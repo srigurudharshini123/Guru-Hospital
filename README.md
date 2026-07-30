@@ -106,7 +106,7 @@ guru-hospital/
 
 ## 🌐 Live Demo
 
-🔗 [View Live Demo](#) <!-- Replace # with your deployed link (Netlify/Vercel/GitHub Pages) -->
+🔗 [View Live Demo](#) <!--https://srigurudharshini123.github.io/Guru-Hospital/ -->
 
 ---
 
