@@ -106,7 +106,7 @@ guru-hospital/
 
 ## 🌐 Live Demo
 
-🔗 [View Live Demo](#) <!--https://srigurudharshini123.github.io/Guru-Hospital/ -->
+🔗 [View Live Demo](https://srigurudharshini123.github.io/Guru-Hospital/)
 
 ---
 
